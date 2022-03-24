@@ -1,0 +1,22 @@
+
+
+
+http://localhost:7070/create
+
+{
+    "aadharid":787845451212,
+    "firstName":"hhkj",
+    "lastName":"bb",
+    "age":25,
+    "teacher":"sidheshwar",
+    "math":"89",
+    "social":"66",
+    "eng":"78",
+    "phy":"84",
+    "chem":"91"
+    
+    }
+
+http://localhost:7070/delete/
+
+http://localhost:7070/list
